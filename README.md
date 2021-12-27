@@ -1,4 +1,5 @@
-# TE-HI-GCN
+# doi.org/10.1007/s12021-021-09548-1
+
 
 The implementation of TE-HI-GCN in paper:
 
@@ -7,6 +8,8 @@ Lanting Li et.al "TE-HI-GCN: An Ensemble of Transfer Hierachical Graph Convoluti
 Lanting Li
 
 https://doi.org/10.1007/s12021-021-09548-1
+This [Link] (https://drive.google.com/file/d/1UuNYIQ6wDg_C4EtW88pWVbqvZI_vKpF6/view?usp=sharing)
+
 # Require
 
 Python 3.6
