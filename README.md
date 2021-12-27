@@ -5,7 +5,8 @@ The implementation of TE-HI-GCN in paper:
 
 Lanting Li et.al "TE-HI-GCN: An Ensemble of Transfer Hierachical Graph Convolutional Networks for Disorder Diagnosis." 
 # code by 
-Lanting Li
+
+General code was developed by Lanting Li
 
 https://doi.org/10.1007/s12021-021-09548-1
 
