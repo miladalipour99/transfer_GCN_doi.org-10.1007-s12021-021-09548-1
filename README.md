@@ -16,7 +16,18 @@ this [link](https://drive.google.com/file/d/1UuNYIQ6wDg_C4EtW88pWVbqvZI_vKpF6/vi
 
 # Require
 
-Python 3.6
+| Library      | Version     | Purpose     |
+| :------------- | :----------: | -----------: |
+|  Pytorch | 1.4.0   | Deep learning library for tensor transformations    |
+| Torchvision | 0.2.2 | library required by pytorch |
+| Numpy  | 1.18.1 | Datascience library for creating and manipulating arrays in python  |
+| sklearn | 0.23 | Machine learning library used to output area under the curve and other stats. |
+| matplotlib | 3.1.2 | A visualization library required by sklearn to generate the 2D graphs. |
+| Pandas | 0.25.3 | Datascience library for working with tabular data |
+| Nibabel  | 3.0.0 | Library for loading in MRI scans into python  |
+| Tqdm  | 4.42.1 | library for outputting progress to the console.  |
+
+
 
 # Reproducing Results
 
